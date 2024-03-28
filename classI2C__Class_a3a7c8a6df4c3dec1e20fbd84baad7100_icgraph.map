@@ -1,7 +1,7 @@
 <map id="I2C_Class::readByte" name="I2C_Class::readByte">
 <area shape="rect" id="node1" title=" " alt="" coords="260,81,412,108"/>
-<area shape="rect" id="node2" href="$classM5HatBugC.html#a2fbbd6618f47029cb0be5d444d4c85f7" title=" " alt="" coords="5,5,212,32"/>
-<area shape="rect" id="node3" href="$classM5HatBugC.html#a51b96a7d29a18532ac24507bfa8e5e56" title=" " alt="" coords="5,56,212,83"/>
+<area shape="rect" id="node2" href="$classM5HatBugC.html#a2fbbd6618f47029cb0be5d444d4c85f7" title="Get the Motor Speed object." alt="" coords="5,5,212,32"/>
+<area shape="rect" id="node3" href="$classM5HatBugC.html#a51b96a7d29a18532ac24507bfa8e5e56" title="Get the Raw Adc8 Bit object." alt="" coords="5,56,212,83"/>
 <area shape="rect" id="node4" href="$classI2C__Class.html#a410caa411b98cd025cb3e846b2b7d66a" title=" " alt="" coords="27,107,190,133"/>
 <area shape="rect" id="node5" href="$classI2C__Class.html#a4ecaa048ee2aacf0b3b3eece57d2c3e0" title=" " alt="" coords="27,157,190,184"/>
 </map>

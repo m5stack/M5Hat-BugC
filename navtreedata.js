@@ -24,7 +24,7 @@
 */
 var NAVTREE =
 [
-  [ "M5Unified", "index.html", [
+  [ "M5Hat-BugC", "index.html", [
     [ "M5Hat-BugC", "md_README.html", [
       [ "Overview", "md_README.html#autotoc_md1", null ],
       [ "License", "md_README.html#autotoc_md2", null ]

@@ -1,6 +1,6 @@
 <map id="I2C_Class::writeByte" name="I2C_Class::writeByte">
 <area shape="rect" id="node1" title=" " alt="" coords="259,56,415,83"/>
-<area shape="rect" id="node2" href="$classM5HatBugC.html#a1d09221662df4dc1b47c46c97417ebf0" title=" " alt="" coords="5,5,211,32"/>
+<area shape="rect" id="node2" href="$classM5HatBugC.html#a1d09221662df4dc1b47c46c97417ebf0" title="Set the Motor Speed object." alt="" coords="5,5,211,32"/>
 <area shape="rect" id="node3" href="$classI2C__Class.html#a410caa411b98cd025cb3e846b2b7d66a" title=" " alt="" coords="27,56,189,83"/>
 <area shape="rect" id="node4" href="$classI2C__Class.html#a4ecaa048ee2aacf0b3b3eece57d2c3e0" title=" " alt="" coords="27,107,189,133"/>
 </map>

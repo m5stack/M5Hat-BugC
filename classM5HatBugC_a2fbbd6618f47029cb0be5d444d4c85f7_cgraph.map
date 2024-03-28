@@ -1,4 +1,4 @@
 <map id="M5HatBugC::getMotorSpeed" name="M5HatBugC::getMotorSpeed">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,212,32"/>
+<area shape="rect" id="node1" title="Get the Motor Speed object." alt="" coords="5,5,212,32"/>
 <area shape="rect" id="node2" href="$classI2C__Class.html#a3a7c8a6df4c3dec1e20fbd84baad7100" title=" " alt="" coords="260,5,412,32"/>
 </map>

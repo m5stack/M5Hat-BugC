@@ -1,5 +1,5 @@
 <map id="I2C_Class::readBytes" name="I2C_Class::readBytes">
 <area shape="rect" id="node1" title=" " alt="" coords="268,31,427,57"/>
-<area shape="rect" id="node2" href="$classM5HatBugC.html#ac71f08c0d8a998eef8813847a02497c8" title=" " alt="" coords="5,5,220,32"/>
+<area shape="rect" id="node2" href="$classM5HatBugC.html#ac71f08c0d8a998eef8813847a02497c8" title="Get the Raw Adc12 Bit object." alt="" coords="5,5,220,32"/>
 <area shape="rect" id="node3" href="$classI2C__Class.html#a851c82345c5077ab6c17a3aae93e02f3" title=" " alt="" coords="39,56,187,83"/>
 </map>
