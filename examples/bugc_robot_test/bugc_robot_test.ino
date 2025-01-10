@@ -5,7 +5,7 @@
  *
  *
  * @Hardwares: M5StickC/M5stickC-Plus/M5stickC-Plus2 + Hat BugC2
- * @Platform Version: Arduino M5Stack Board Manager v2.1.1
+ * @Platform Version: Arduino M5Stack Board Manager v2.1.3
  * @Dependent Library:
  * M5GFX@^0.2.3: https://github.com/m5stack/M5GFX
  * M5Unified@^0.2.2: https://github.com/m5stack/M5Unified
@@ -13,7 +13,7 @@
  */
 
 #include <M5Unified.h>
-#include "M5Hatbugc.h"
+#include "M5HatBugC.h"
 #include "img.h"
 
 M5HatBugC bugc;

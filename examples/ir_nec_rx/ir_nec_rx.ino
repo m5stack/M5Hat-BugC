@@ -5,7 +5,7 @@
  *
  *
  * @Hardwares: M5StickC + Hat BugC2
- * @Platform Version: Arduino M5Stack Board Manager v2.1.1
+ * @Platform Version: Arduino M5Stack Board Manager v2.1.3
  * @Dependent Library:
  * M5HatBugC: https://github.com/m5stack/M5Hat-BugC
  * IRremote: https://github.com/Arduino-IRremote/Arduino-IRremote
