@@ -1,9 +1,7 @@
-/**
- * @file driver.ino
- * @author SeanKwok (shaoxiang@m5stack.com)
- * @brief
- * @version 0.1
- * @date 2024-03-26
+/*
+ * SPDX-FileCopyrightText: 2025 M5Stack Technology CO LTD
+ *
+ * SPDX-License-Identifier: MIT
  *
  *
  * @Hardwares: M5StickC + Hat BugC2
@@ -16,7 +14,8 @@
 
 M5HatBugC bugc;
 
-void setup() {
+void setup()
+{
     Serial.begin(115200);
     while (!bugc.begin(&Wire, BUGC_DEFAULT_I2C_ADDR, 0, 26, 400000U)) {
         Serial.println("Couldn't find BugC");
@@ -25,11 +24,11 @@ void setup() {
     bugc.setAllMotorSpeed(0, 0, 0, 0);
 }
 
-void loop() {
+void loop()
+{
     // Read the battery voltage (only BugC2 support)
     uint16_t bat_voltage = bugc.getRawAdc12Bit();
-    Serial.printf("Battery: %.2fV\r\n",
-                  ((float)bat_voltage / 4095.0 * 3.3) * 2.960784);
+    Serial.printf("Battery: %.2fV\r\n", ((float)bat_voltage / 4095.0 * 3.3) * 2.960784);
 
     bugc.setAllLedColor(0xff0000, 0x0000ff);
     delay(500);

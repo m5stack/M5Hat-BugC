@@ -1,9 +1,7 @@
-/**
- * @file ir_nec_rx.ino
- * @author SeanKwok (shaoxiang@m5stack.com)
- * @brief
- * @version 0.1
- * @date 2024-03-26
+/*
+ * SPDX-FileCopyrightText: 2025 M5Stack Technology CO LTD
+ *
+ * SPDX-License-Identifier: MIT
  *
  *
  * @Hardwares: M5StickC + Hat BugC2
@@ -18,7 +16,8 @@
 
 M5HatBugC bugc;
 
-void setup() {
+void setup()
+{
     Serial.begin(115200);
     while (!bugc.begin(&Wire, BUGC_DEFAULT_I2C_ADDR, 0, 26, 400000U)) {
         Serial.println("Couldn't find BugC");
@@ -31,7 +30,8 @@ void setup() {
     IrReceiver.begin(BUGC2_IR_RX_PIN, ENABLE_LED_FEEDBACK);
 }
 
-void loop() {
+void loop()
+{
     /*
      * Check if received data is available and if yes, try to decode it.
      * Decoded result is in the IrReceiver.decodedIRData structure.
