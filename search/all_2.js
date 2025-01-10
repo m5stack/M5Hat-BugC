@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['getmotorspeed_9',['getMotorSpeed',['../classM5HatBugC.html#a2fbbd6618f47029cb0be5d444d4c85f7',1,'M5HatBugC']]],
-  ['getrawadc12bit_10',['getRawAdc12Bit',['../classM5HatBugC.html#ac71f08c0d8a998eef8813847a02497c8',1,'M5HatBugC']]],
-  ['getrawadc8bit_11',['getRawAdc8Bit',['../classM5HatBugC.html#a51b96a7d29a18532ac24507bfa8e5e56',1,'M5HatBugC']]]
+  ['forward_5fjpg_5f135_5f240_2eh_11',['forward_jpg_135_240.h',['../forward__jpg__135__240_8h.html',1,'']]],
+  ['forward_5fjpg_5f80_5f160_2eh_12',['forward_jpg_80_160.h',['../forward__jpg__80__160_8h.html',1,'']]]
 ];
