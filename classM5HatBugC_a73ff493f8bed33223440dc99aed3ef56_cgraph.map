@@ -1,4 +1,5 @@
 <map id="M5HatBugC::setAllMotorSpeed" name="M5HatBugC::setAllMotorSpeed">
-<area shape="rect" id="node1" title="Set the All Motor Speed object." alt="" coords="5,5,228,32"/>
-<area shape="rect" id="node2" href="$classI2C__Class.html#aeb350154fa0a3bab9500f49e015ab31f" title=" " alt="" coords="276,5,439,32"/>
+<area shape="rect" id="Node000001" title="Set the All Motor Speed object." alt="" coords="5,5,228,31"/>
+<area shape="rect" id="Node000002" href="$classI2C__Class.html#aeb350154fa0a3bab9500f49e015ab31f" title=" " alt="" coords="276,5,439,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,15,262,15,262,21,228,21"/>
 </map>

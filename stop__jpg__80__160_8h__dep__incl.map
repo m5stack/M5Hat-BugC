@@ -1,4 +1,5 @@
 <map id="examples/bugc_robot_test/img/stop_jpg_80_160.h" name="examples/bugc_robot_test/img/stop_jpg_80_160.h">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,213,47"/>
-<area shape="rect" id="node2" href="$img_8h.html" title=" " alt="" coords="28,95,191,136"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,213,45"/>
+<area shape="rect" id="Node000002" href="$img_8h.html" title=" " alt="" coords="28,93,191,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,59,112,93,107,93,107,59"/>
 </map>

@@ -1,4 +1,5 @@
 <map id="M5HatBugC::setLedColor" name="M5HatBugC::setLedColor">
-<area shape="rect" id="node1" title="Set the Led Color object." alt="" coords="5,5,189,32"/>
-<area shape="rect" id="node2" href="$classI2C__Class.html#aeb350154fa0a3bab9500f49e015ab31f" title=" " alt="" coords="237,5,400,32"/>
+<area shape="rect" id="Node000001" title="Set the Led Color object." alt="" coords="5,5,189,31"/>
+<area shape="rect" id="Node000002" href="$classI2C__Class.html#aeb350154fa0a3bab9500f49e015ab31f" title=" " alt="" coords="237,5,400,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,15,224,15,224,21,190,21"/>
 </map>

@@ -1,4 +1,5 @@
 <map id="M5HatBugC::getRawAdc12Bit" name="M5HatBugC::getRawAdc12Bit">
-<area shape="rect" id="node1" title="Get the Raw Adc12 Bit object." alt="" coords="5,5,220,32"/>
-<area shape="rect" id="node2" href="$classI2C__Class.html#aa3fa7175df554a92fd119dbf13b0f661" title=" " alt="" coords="268,5,427,32"/>
+<area shape="rect" id="Node000001" title="Get the Raw Adc12 Bit object." alt="" coords="5,5,220,31"/>
+<area shape="rect" id="Node000002" href="$classI2C__Class.html#aa3fa7175df554a92fd119dbf13b0f661" title=" " alt="" coords="268,5,427,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,15,254,15,254,21,220,21"/>
 </map>

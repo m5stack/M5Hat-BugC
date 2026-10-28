@@ -1,5 +1,7 @@
 <map id="src/I2C_Class.h" name="src/I2C_Class.h">
-<area shape="rect" id="node1" title=" " alt="" coords="37,5,157,32"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,80,89,107"/>
-<area shape="rect" id="node3" title=" " alt="" coords="114,80,178,107"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="37,5,157,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,89,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,33,65,69,61,66,86,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="114,79,178,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="107,29,132,66,128,69,103,33"/>
 </map>
